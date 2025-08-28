@@ -3,3 +3,4 @@ type: middleware
 import: github.com/steveiliop56/tinyrobotsblock
 summary: A simple middleware that denies all crawlers and bots from accessing your stuff.
 testData:
+  enabled: true
