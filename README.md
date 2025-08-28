@@ -11,7 +11,7 @@ experimental:
   plugins:
     tinyrobotsblock:
       moduleName: "github.com/steveiliop56/tinyrobotsblock"
-      version: "v0.1.0"
+      version: "v0.2.0"
 ```
 
 Then define the middleware:
@@ -22,6 +22,7 @@ http:
     tinyrobotsblock:
       plugin:
         tinyrobotsblock:
+          enabled: true
 ```
 
 # License
