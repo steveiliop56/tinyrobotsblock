@@ -1,6 +1,6 @@
 # Tinyrobotsblock
 
-An extremely simple (>50 lines) Traefik middleware that overwrites the `robots.txt` file and denies crawling from bots.
+An extremely simple (<50 lines) Traefik middleware that overwrites the `robots.txt` file and denies crawling from bots.
 
 # Installation
 
