@@ -9,7 +9,7 @@ import (
 // Config
 
 type Config struct {
-	Enabled bool `json:"headers"`
+	Enabled bool `json:"enabled"`
 }
 
 func CreateConfig() *Config {
